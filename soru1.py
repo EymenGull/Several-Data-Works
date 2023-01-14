@@ -89,10 +89,7 @@ with pd.option_context('display.max_rows', None,
                            ): display(cleanerP)
 print(cleanerP.shape)
 
-passenger_np = cleaner.iloc[0:613,3]
-display(passenger_np)
 
-#I couldn't fix the problem. I try to convert them into a numpy array then take ratio
 
 
 # In[ ]:
