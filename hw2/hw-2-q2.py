@@ -3,6 +3,9 @@
 
 # In[170]:
 
+#aim of the project  : Constructing a complete list of all artists appearing in the dictionary.
+#                      Then using Counter function count how many times each artist appears.
+#                      Filtering out those artists that appear fewer than 100 times, and then sorting the remaining from the most popular to least popular.
 
 
 from urllib.request import urlopen
