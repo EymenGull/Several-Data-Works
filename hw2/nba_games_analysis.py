@@ -2,6 +2,12 @@
 # coding: utf-8
 
 # In[199]:
+#link of the data : 2018-19 data set from https://sports-statistics.com/sports-data/nba-basketball-datasets-csv-files/
+#aim of the project : Writing a function that takes the GAME_ID as the parameter and returns the full dataset for a given match.
+#                     Writing a function that takes the GAME_ID as the parameter and returns a dictionary of (key,value) pairs 
+#                     where key is a player name and value is how many times that specific player appears in PLAYER1_NAME,PLAYER2_NAME, or PLAYER3_NAME columns.
+#                     Write a function that takes the GAME_ID as the parameter and returns a list of pairs of player names 
+#                     where the pair interacted during the game more than once.
 
 
 import numpy as np
