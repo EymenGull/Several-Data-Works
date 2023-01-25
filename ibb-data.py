@@ -2,7 +2,10 @@
 # coding: utf-8
 
 # In[2]:
-
+#link of the data : https://data.ibb.gov.tr/dataset/hourly-public-transport-data-set
+#aim of this work : Calculating the total hourly uses of different modes of transports for January 2021 and May 2021.
+#                   Calculating the total hourly uses of different transfer types (AKTARMA, NORMAL) for June 2020 and in September 2020.
+#                   Calculating the daily totals of passenger numbers and passage numbers for August 2020.
 
 import pandas as pd
 import numpy as np
